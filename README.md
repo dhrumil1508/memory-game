@@ -54,12 +54,6 @@ script.js
 
 ---
 
-## ✨ Credits
-
-Made with ❤️ by [Your Name]
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License.
